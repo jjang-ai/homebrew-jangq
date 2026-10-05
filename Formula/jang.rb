@@ -3,8 +3,8 @@ class Jang < Formula
 
   desc "JANG — Adaptive Mixed-Precision Quantization for Apple Silicon (the GGUF of MLX)"
   homepage "https://jangq.ai"
-  url "https://files.pythonhosted.org/packages/84/77/fbeb6331853c499747d55949ddb066259b84f2a52a09698cea17a3e5f7e1/jang-2.5.47.tar.gz"
-  sha256 "9e567c0c424a9819f1bfbde3cd0b4cb34b4f5a42b68a2e9b5d3a7c4a8960f740"
+  url "https://files.pythonhosted.org/packages/62/e3/8eec338c8d9681be68db9f248e6ca5bc86a92a8f0ffe3945ed56047f33fc/jang-2.5.49.tar.gz"
+  sha256 "d8c96c29c50705a031b0230508ab40d24d67fa3dab945416c8e1c9c4eefac7ad"
   license "Apache-2.0"
 
   depends_on "python@3.13"
